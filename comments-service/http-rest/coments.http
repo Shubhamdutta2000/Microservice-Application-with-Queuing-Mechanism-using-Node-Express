@@ -1,0 +1,11 @@
+#########  GET all comments attached to particular post 
+GET http://localhost:5001/posts/f2093f61/comments
+
+
+######## POST all comments attached to particular post 
+POST http://localhost:5001/posts/f2093f61/comments
+Content-Type: application/json
+
+{
+    "content": "This is second comment"
+}

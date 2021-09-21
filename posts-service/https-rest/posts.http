@@ -1,0 +1,13 @@
+#########  GET all posts
+
+GET http://localhost:5000/posts
+
+
+######## POST new post
+
+POST http://localhost:5000/posts
+Content-Type: application/json
+
+{
+    "title": "POST #2"
+}
