@@ -104,3 +104,9 @@ npm start
 - ### Store Events in Query-Service
 
 ![Dealing_with_Missing_Events](https://user-images.githubusercontent.com/62681943/134131070-f6d0849a-57d8-47fb-acaa-5a1f6b3eb964.png)
+
+
+<br />
+
+## License Used
+- MIT License
